@@ -1,0 +1,3 @@
+# Firebase / GCP credentials
+*.json
+firebase-adminsdk-*.json
